@@ -1,0 +1,5 @@
+Id pedido	Cliente	Clase de pedido	Gu? Inmediata	Organizaci? de venta	Canal	Sector	Referencia cliente (OC)	Motivo de Pedido	Fecha Entrega	Posici?	Material	Descripci? del item	Centro	Cantidad	Unidad	Tipo Interlocutor	Precio unitario	Moneda	Referencia a factura
+1	22222222	ZREC		7199	C1	0		R02	20220220	10	202222		7143	20	UN	WE			20222
+1	22222222	ZREC		7199	C1	0		R02	20220220	20	20222		7143	20	UN	WE			20222
+1	22222222	ZREC		9002	C1	0		R02	20220220	30	200220		7143	202	UN	WE			20222
+1	20202222	ZREC		5770	C1	0		R01	20220220	10	318000		7143	20,2	UN	WE			202222
