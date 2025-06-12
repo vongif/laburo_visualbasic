@@ -1,7 +1,0 @@
-Id pedido	Cliente	Clase de pedido	Gu? Inmediata	Organizaci? de venta	Canal	Sector	Referencia cliente (OC)	Motivo de Pedido	Fecha Entrega	Posici?	Material	Descripci? del item	Centro	Cantidad	Unidad	Tipo Interlocutor	Precio unitario	Moneda	Referencia a factura	Peso	Unidad de Peso
-1	30002216	ZPDD		7199	C1	0	5752522	F01	20250602	10	625300		7199	10	UN	WE					
-2	22222222	ZPDD		7199	C1	0	2222	F01	20220220	10	222222		7199		UN	WE				10.20	KG
-3	10101015	ZPDD		7199	C1	0	20222	F01	20220220	10	160000		7199	10,00	UN	WE					
-3	10101015	ZPDD		7199	C1	0	20222	F01	20220220	20	318000		7199	10,00	UN	WE					
-3	10101015	ZPDD		7199	C1	0	20222	F01	20220220	30	90000		7199	20,00	UN	WE					
-3	10101015	ZPDD		7199	C1	0	20222	F01	20220220	40	318100		7199		UN	WE				20.20	KG
