@@ -1,7 +1,0 @@
-Id pedido	Cliente	Clase de pedido	Guía Inmediata	Organización de venta	Canal	Sector	Referencia cliente (OC)	Motivo de Pedido	Fecha Entrega	Posición	Material	Descripción del item	Centro	Cantidad	Unidad	Tipo Interlocutor	Precio unitario	Moneda	Referencia a factura	Peso	Unidad de Peso		
-1	30000222	ZPVA		7140	C1	00	2252522		20250618	10	318000		7143		UN	WE				10.10	KG	1	KG
-1	30000222	ZPVA		7140	C1	00	2252522		20250618	20	466400		7143		UN	WE				1202.20	KG		
-2	66525545	ZPVA		7140	C1	00	66333		20250618	10	466700		7143		UN	WE				20.20	KG		
-3	36525855	ZPVA		7140	C1	00	665441		20250618	10	318000		7143		UN	WE				10.10	KG		
-4	69658222	ZPVA		7140	C1	00	62		20250618	10	348300		7143	20	UN	WE							
-4	69658222	ZPVA		7140	C1	00	62		20250618	20	654550		7143	50	UN	WE							
