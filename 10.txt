@@ -1,0 +1,3 @@
+Id pedido	Cliente	Clase de pedido	Guía Inmediata	Organización de venta	Canal	Sector	Referencia cliente (OC)	Motivo de Pedido	Fecha Entrega	Posición	Material	Descripción del item	Centro	Cantidad	Unidad	Tipo Interlocutor	Precio unitario	Moneda	Referencia a factura	Peso	Unidad de Peso		
+1	60252555	ZPDD	X	7140	C1	0		F01	20250616	10	310000		7143	20	UN	WE						1	KG
+2	66525555	ZPDD		7140	C1	0		F01	20250220	10	380400		7143		UN	WE				10.20	KG		
