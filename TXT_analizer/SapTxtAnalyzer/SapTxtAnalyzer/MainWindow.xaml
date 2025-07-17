@@ -1,0 +1,71 @@
+﻿<Window x:Class="SapTxtAnalyzer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="SAP TXT Analyzer" Height="600" Width="1000"
+        WindowStartupLocation="CenterScreen">
+
+    <DockPanel>
+
+        <!-- 🔝 Barra superior -->
+        <ToolBar DockPanel.Dock="Top" Background="#EEE">
+            <Button Content="📂 Cargar archivos" Margin="5" Click="CargarArchivos_Click" />
+            <Button Content="📤 Exportar" Margin="5"/>
+            <Button Content="🖨 Imprimir" Margin="5"/>
+            <Button Content="💾 Guardar en DB" Margin="5"/>
+        </ToolBar>
+
+        <!-- 📐 Cuerpo dividido -->
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="180"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <!-- 📁 Panel izquierdo -->
+            <StackPanel Grid.Column="0" Background="#F5F5F5" Margin="5">
+                <TextBlock Text="Tipos de carga" FontWeight="Bold" Margin="10"/>
+                <ListBox Name="lstTiposCarga">
+                    <ListBoxItem Content="ZPVA"/>
+                    <ListBoxItem Content="ZREC"/>
+                    <ListBoxItem Content="ZPDD"/>
+                    <ListBoxItem Content="Carpeta"/>
+                </ListBox>
+            </StackPanel>
+
+            <!-- 📄 Panel derecho -->
+            <StackPanel Grid.Column="1" Margin="5">
+
+                <!-- 🔍 Filtros -->
+                <StackPanel Orientation="Horizontal" Margin="5">
+                    <TextBlock Text="Cliente:" Margin="5" VerticalAlignment="Center"/>
+                    <ComboBox x:Name="cbCliente" Width="100" Margin="5" SelectionChanged="Filtro_Changed"/>
+
+                    <TextBlock Text="Clase pedido:" Margin="5" VerticalAlignment="Center"/>
+                    <ComboBox x:Name="cbClasePedido" Width="100" Margin="5" SelectionChanged="Filtro_Changed"/>
+
+                    <TextBlock Text="Referencia OC:" Margin="5" VerticalAlignment="Center"/>
+                    <ComboBox x:Name="cbReferencia" Width="100" Margin="5" SelectionChanged="Filtro_Changed"/>
+
+                    <TextBlock Text="Fecha entrega:" Margin="5" VerticalAlignment="Center"/>
+                    <ComboBox x:Name="cbFechaEntrega" Width="100" Margin="5" SelectionChanged="Filtro_Changed"/>
+
+                    <TextBlock Text="Material:" Margin="5" VerticalAlignment="Center"/>
+                    <ComboBox x:Name="cbMaterial" Width="100" Margin="5" SelectionChanged="Filtro_Changed"/>
+
+                    <TextBlock Text="Fecha ingreso:" Margin="5" VerticalAlignment="Center"/>
+                    <ComboBox x:Name="cbFechaIngreso" Width="100" Margin="5" SelectionChanged="Filtro_Changed"/>
+                </StackPanel>
+
+                <!-- 📋 Grilla -->
+                <DataGrid Name="dgDatos"
+                          AutoGenerateColumns="True"
+                          Margin="5"
+                          IsReadOnly="True"
+                          AlternatingRowBackground="#FAFAFA"
+                          HeadersVisibility="Column"
+                          CanUserAddRows="False"/>
+            </StackPanel>
+        </Grid>
+
+    </DockPanel>
+</Window>

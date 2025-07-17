@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ccali\\Desktop\\Proyects\\laburo\\TXT_analizer\\SapTxtAnalyzer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58647CBB-383D-4D9D-AA50-2C90C198E22F}|SapTxtAnalyzer\\SapTxtAnalyzer.csproj|c:\\users\\ccali\\desktop\\proyects\\laburo\\txt_analizer\\saptxtanalyzer\\saptxtanalyzer\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{58647CBB-383D-4D9D-AA50-2C90C198E22F}|SapTxtAnalyzer\\SapTxtAnalyzer.csproj|solutionrelative:saptxtanalyzer\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58647CBB-383D-4D9D-AA50-2C90C198E22F}|SapTxtAnalyzer\\SapTxtAnalyzer.csproj|c:\\users\\ccali\\desktop\\proyects\\laburo\\txt_analizer\\saptxtanalyzer\\saptxtanalyzer\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58647CBB-383D-4D9D-AA50-2C90C198E22F}|SapTxtAnalyzer\\SapTxtAnalyzer.csproj|solutionrelative:saptxtanalyzer\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ccali\\Desktop\\Proyects\\laburo\\TXT_analizer\\SapTxtAnalyzer\\SapTxtAnalyzer\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "SapTxtAnalyzer\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\ccali\\Desktop\\Proyects\\laburo\\TXT_analizer\\SapTxtAnalyzer\\SapTxtAnalyzer\\MainWindow.xaml",
+              "RelativeToolTip": "SapTxtAnalyzer\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-17T01:42:26.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ccali\\Desktop\\Proyects\\laburo\\TXT_analizer\\SapTxtAnalyzer\\SapTxtAnalyzer\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SapTxtAnalyzer\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ccali\\Desktop\\Proyects\\laburo\\TXT_analizer\\SapTxtAnalyzer\\SapTxtAnalyzer\\MainWindow.xaml.cs",
+              "RelativeToolTip": "SapTxtAnalyzer\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAuwHAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T01:42:23.362Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
