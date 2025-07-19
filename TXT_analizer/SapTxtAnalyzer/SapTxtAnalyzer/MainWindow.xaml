@@ -9,7 +9,8 @@
         <!-- 🔝 Barra superior -->
         <ToolBar DockPanel.Dock="Top" Background="#EEE">
             <Button Content="📂 Cargar archivos" Margin="5" Click="CargarArchivos_Click" />
-            <Button Content="📤 Exportar" Margin="5"/>
+			<Button Content="📤 Exportar TXT" Margin="5" Click="Exportar_Click"/>
+			<Button Content="📄 Exportar PDF" Margin="5" Click="ExportarPDF_Click"/>
             <Button Content="🖨 Imprimir" Margin="5"/>
             <Button Content="💾 Guardar en DB" Margin="5"/>
         </ToolBar>
@@ -60,7 +61,7 @@
                 <DataGrid Name="dgDatos"
                           AutoGenerateColumns="True"
                           Margin="5"
-                          IsReadOnly="True"
+                          IsReadOnly="False"
                           AlternatingRowBackground="#FAFAFA"
                           HeadersVisibility="Column"
                           CanUserAddRows="False"/>

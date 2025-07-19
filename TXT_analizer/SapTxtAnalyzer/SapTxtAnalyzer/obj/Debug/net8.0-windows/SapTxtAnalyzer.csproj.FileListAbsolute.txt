@@ -18,3 +18,13 @@ C:\Users\ccali\Desktop\Proyects\laburo\TXT_analizer\SapTxtAnalyzer\SapTxtAnalyze
 C:\Users\ccali\Desktop\Proyects\laburo\TXT_analizer\SapTxtAnalyzer\SapTxtAnalyzer\obj\Debug\net8.0-windows\SapTxtAnalyzer.pdb
 C:\Users\ccali\Desktop\Proyects\laburo\TXT_analizer\SapTxtAnalyzer\SapTxtAnalyzer\obj\Debug\net8.0-windows\SapTxtAnalyzer.genruntimeconfig.cache
 C:\Users\ccali\Desktop\Proyects\laburo\TXT_analizer\SapTxtAnalyzer\SapTxtAnalyzer\obj\Debug\net8.0-windows\ref\SapTxtAnalyzer.dll
+C:\Users\ccali\Desktop\Proyects\laburo\TXT_analizer\SapTxtAnalyzer\SapTxtAnalyzer\obj\Debug\net8.0-windows\SapTxtAnalyzer.csproj.AssemblyReference.cache
+C:\Users\ccali\Desktop\Proyects\laburo\TXT_analizer\SapTxtAnalyzer\SapTxtAnalyzer\bin\Debug\net8.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\ccali\Desktop\Proyects\laburo\TXT_analizer\SapTxtAnalyzer\SapTxtAnalyzer\bin\Debug\net8.0-windows\PdfSharp.Charting.dll
+C:\Users\ccali\Desktop\Proyects\laburo\TXT_analizer\SapTxtAnalyzer\SapTxtAnalyzer\bin\Debug\net8.0-windows\PdfSharp.dll
+C:\Users\ccali\Desktop\Proyects\laburo\TXT_analizer\SapTxtAnalyzer\SapTxtAnalyzer\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+C:\Users\ccali\Desktop\Proyects\laburo\TXT_analizer\SapTxtAnalyzer\SapTxtAnalyzer\bin\Debug\net8.0-windows\System.Private.Windows.Core.dll
+C:\Users\ccali\Desktop\Proyects\laburo\TXT_analizer\SapTxtAnalyzer\SapTxtAnalyzer\bin\Debug\net8.0-windows\de\PdfSharp.Charting.resources.dll
+C:\Users\ccali\Desktop\Proyects\laburo\TXT_analizer\SapTxtAnalyzer\SapTxtAnalyzer\bin\Debug\net8.0-windows\de\PdfSharp.resources.dll
+C:\Users\ccali\Desktop\Proyects\laburo\TXT_analizer\SapTxtAnalyzer\SapTxtAnalyzer\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ccali\Desktop\Proyects\laburo\TXT_analizer\SapTxtAnalyzer\SapTxtAnalyzer\obj\Debug\net8.0-windows\SapTxtAn.7384929C.Up2Date
