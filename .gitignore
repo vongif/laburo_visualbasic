@@ -1,0 +1,16 @@
+# Build
+bin/
+obj/
+*.user
+*.suo
+
+# Publicaciones
+publish/
+*.r2r.*
+*.exe
+*.dll
+*.msi
+
+# IDE
+.vs/
+.vscode/
